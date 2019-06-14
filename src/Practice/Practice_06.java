@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class Practice_6 {
+public class Practice_06 {
 	public void practice6() {
 		int[] arr = new int[10];
 		int sum = 0;

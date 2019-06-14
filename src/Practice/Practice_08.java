@@ -1,6 +1,6 @@
 package Practice;
 
-public class Practice_8 {
+public class Practice_08 {
 	public void practice8()
 	{
 		String str = "Hello, World";

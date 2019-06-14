@@ -1,6 +1,6 @@
 package Practice;
 
-public class Practice_1 {
+public class Practice_01 {
 	public void practice1() 
 	{
 		double Celsius = 31.5;

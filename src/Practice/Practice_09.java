@@ -1,6 +1,6 @@
 package Practice;
 
-public class Practice_9 
+public class Practice_09 
 {
 	public void practice9() 
 	{

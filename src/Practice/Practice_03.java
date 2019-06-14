@@ -1,6 +1,6 @@
 package Practice;
 
-public class Practice_3 {
+public class Practice_03 {
 	public void practice3()
 	{
 		for (int i=1;i<10;i++)

@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class Practice_4 {
+public class Practice_04 {
 
 	public void practice4() {
 		int num = 0;

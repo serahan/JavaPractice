@@ -1,6 +1,6 @@
 package Practice;
 
-public class Practice_7 {
+public class Practice_07 {
 	public void practice7() {
 		int[][] arr = { { 90, 80, 80 }, 
 						{ 85, 85, 95 }, 
