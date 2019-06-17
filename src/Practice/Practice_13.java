@@ -1,10 +1,10 @@
 package Practice;
-import Practice.FourFunc;
+import Practice.FourFunc12;
 
 public class Practice_13 {
 	public void practice13()
 	{
-		FourFunc four1 = new FourFunc();
+		FourFunc12 four1 = new FourFunc12();
 		
 		four1.setIntNum1(20);
 		four1.setIntNum2(10);
@@ -20,7 +20,7 @@ public class Practice_13 {
 		
 		System.out.println();
 		
-		FourFunc four2 = new FourFunc();
+		FourFunc12 four2 = new FourFunc12();
 		
 		four2.setDoubleNum1(20.5);
 		four2.setDoubleNum2(10.5);

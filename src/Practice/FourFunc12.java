@@ -1,6 +1,6 @@
 package Practice;
 
-public class FourFunc {
+public class FourFunc12 {
 	int int_num1=0;
 	int int_num2=0;
 	double double_num1=0.0;

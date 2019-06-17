@@ -1,11 +1,11 @@
 package Practice;
 
-public class Triangle {
+public class Triangle12 {
 	private int length1;
 	private int length2;
 	private int length3;
 	
-	public Triangle(int a, int b, int c)
+	public Triangle12(int a, int b, int c)
 	{
 		this.length1 = a;
 		this.length2 = b;

@@ -1,12 +1,12 @@
 package Practice;
-import Practice.Triangle;
+import Practice.Triangle12;
 
 public class Practice_12 {
 	public void practice12()
 	{
 		int index=1;
 		
-		Triangle tri = new Triangle(3, 4, 5);
+		Triangle12 tri = new Triangle12(3, 4, 5);
 
 		System.out.println(
 				"»ï°¢Çü" + index + ": A=" + tri.getLength1() + ", B=" + tri.getLength2() + ", C=" + tri.getLength3());
@@ -16,7 +16,7 @@ public class Practice_12 {
 		
 		System.out.println();
 		
-		Triangle tri2 = new Triangle(3,3,3);
+		Triangle12 tri2 = new Triangle12(3,3,3);
 		
 		System.out.println(
 				"»ï°¢Çü" + index + ": A=" + tri2.getLength1() + ", B=" + tri2.getLength2() + ", C=" + tri2.getLength3());

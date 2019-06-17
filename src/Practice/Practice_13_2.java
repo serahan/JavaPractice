@@ -1,10 +1,10 @@
 package Practice;
-import Practice.Generic;
+import Practice.Generic13_2;
 
 public class Practice_13_2 {
 	public void practice13_2()
 	{
-		Generic<Integer> g = new Generic<Integer>(20,10);
+		Generic13_2<Integer> g = new Generic13_2<Integer>(20,10);
 		
 		System.out.println("a=" + g.get1() + ", b=" + g.get2());
 		System.out.println(
@@ -15,7 +15,7 @@ public class Practice_13_2 {
 		
 		System.out.println();
 		
-		Generic<Double> g2 = new Generic<Double>(20.5,10.5);
+		Generic13_2<Double> g2 = new Generic13_2<Double>(20.5,10.5);
 		
 		System.out.println("x=" + g2.get1() + ", b=" + g2.get2());
 		System.out.println(

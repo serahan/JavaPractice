@@ -1,10 +1,10 @@
 package Practice;
 
-public class Generic<T extends Number> {
+public class Generic13_2<T extends Number> {
 	public T num1;
 	public T num2;
 	
-	public Generic(T a,T b)
+	public Generic13_2(T a,T b)
 	{
 		this.num1=a;
 		this.num2=b;
