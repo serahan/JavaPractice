@@ -16,13 +16,14 @@ import Practice.Practice_13;
 import Practice.Practice_13_2;
 import Practice.Practice_14;
 import Practice.Practice_15;
+import Practice.Practice_16;
 
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Practice_15 pra15 = new Practice_15();
+		Practice_16 pra16 = new Practice_16();
 		
-		pra15.practice15();
+		pra16.practice16();
 	}
 }
